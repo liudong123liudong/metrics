@@ -1,2 +1,2 @@
 # metrics
-a tool for collect host metrics 
+a tool to collect host metrics for all plateform
